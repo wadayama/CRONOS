@@ -27,7 +27,7 @@ October 2025 - March 2031 (5.5 years)
 <table>
   <tr>
     <td align="center" width="200" valign="top">
-      <img src="assets/images/wadayama.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <img src="assets/images/wadayama.jpg" width="150" style="border-radius: 10px;">
       <br>
       <strong>Tadashi Wadayama</strong>
       <br>
@@ -37,7 +37,7 @@ October 2025 - March 2031 (5.5 years)
     </td>
     <td width="50"></td>
     <td align="center" width="200" valign="top">
-      <img src="assets/images/watanabe.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <img src="assets/images/watanabe.png" width="150" style="border-radius: 10px;">
       <br>
       <strong>Shun Watanabe</strong>
       <br>
