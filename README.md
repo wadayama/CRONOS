@@ -37,6 +37,8 @@ October 2025 - March 2031 (5.5 years)
     </td>
     <td width="50"></td>
     <td align="center" width="200">
+      <img src="assets/images/watanabe.png" width="150" style="border-radius: 50%;">
+      <br>
       <strong>Shun Watanabe</strong>
       <br>
       Co-Principal Investigator
