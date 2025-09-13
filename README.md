@@ -1,5 +1,14 @@
 # Digital Cybernetics: Towards Next-Generation Communication Architecture
 
+<div align="center">
+  <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="500">
+  
+  **CRONOS Project**  
+  *Creating Next-Generation Communication Architecture for Digital Cybernetics*
+</div>
+
+<br>
+
 ## Project Overview
 
 ### Project Goal
