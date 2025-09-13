@@ -5,6 +5,16 @@
   
   **CRONOS Project**  
   *Creating Next-Generation Communication Architecture for Digital Cybernetics*
+  
+  <br>
+  
+  <a href="https://www.jst.go.jp/kisoken/cronos/en/index.html">
+    <img src="assets/images/CRONOS_logo.png" alt="CRONOS Program" height="60">
+  </a>
+  
+  <br>
+  
+  [CRONOS - Challenge for Revolutionary Research Network and Open Science](https://www.jst.go.jp/kisoken/cronos/en/index.html)
 </div>
 
 <br>
