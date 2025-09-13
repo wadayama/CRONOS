@@ -1,7 +1,7 @@
 # Digital Cybernetics: Towards Next-Generation Communication Architecture
 
 <div align="center">
-  <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="500">
+  <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="300">
   
   **CRONOS Project**  
   *Creating Next-Generation Communication Architecture for Digital Cybernetics*
@@ -23,8 +23,28 @@ and dual-process learning—to create next-generation communication architecture
 October 2025 - March 2031 (5.5 years)
 
 ### Principal Investigators
-- **PI**: Tadashi Wadayama (Nagoya Institute of Technology)
-- **Co-PI**: Shun Watanabe (Tokyo University of Agriculture and Technology)
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="assets/images/wadayama.jpg" width="150" style="border-radius: 50%;">
+      <br>
+      <strong>Tadashi Wadayama</strong>
+      <br>
+      Principal Investigator
+      <br>
+      <em>Nagoya Institute of Technology</em>
+    </td>
+    <td width="50"></td>
+    <td align="center" width="200">
+      <strong>Shun Watanabe</strong>
+      <br>
+      Co-Principal Investigator
+      <br>
+      <em>Tokyo University of Agriculture and Technology</em>
+    </td>
+  </tr>
+</table>
 
 
 ## Research Themes
@@ -63,23 +83,6 @@ Moving beyond Shannon's 80-year-old architecture to support:
 - Smart cities
 - Digital twins with world models
 
-## Expected Outcomes
-
-### Academic Contributions
-- Establishment of post-Shannon communication theory
-- New academic domain bridging information theory, AI, and signal processing
-- International research network development
-
-### Social Impact
-- Energy-efficient communication infrastructure through environment optimization
-- Robust communication networks resilient to disasters and attacks
-- Enhanced competitiveness through device-communication-AI technology fusion
-
-### Milestones
-- 6+ international conference/journal publications per year
-- 2+ international workshops during the project period
-- 2+ industry collaborations for social implementation
-- 3+ young researchers trained in interdisciplinary fields
 
 ## Research Groups
 
@@ -98,4 +101,4 @@ Focus: Post-Shannon Information Theory
 - Identification codes
 
 ## Contact
-For more information about this CRONOS project, please contact the principal investigators through their respective institutions.
+For more information about this CRONOS project, please contact the principal investigators via email (wadayama@nitech.ac.jp).
