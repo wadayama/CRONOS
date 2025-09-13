@@ -24,6 +24,7 @@ October 2025 - March 2031 (5.5 years)
 
 ### Principal Investigators
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="200" valign="top">
@@ -47,6 +48,7 @@ October 2025 - March 2031 (5.5 years)
     </td>
   </tr>
 </table>
+</div>
 
 
 ## Research Themes
