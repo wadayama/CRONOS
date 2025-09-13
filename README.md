@@ -1,35 +1,30 @@
 # Digital Cybernetics: Towards Next-Generation Communication Architecture
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>Project Overview</h3>
-      <p>
-        AI agents are rapidly transforming communication technology. 
-        This research realizes "Post-Shannon Communication" supporting autonomous, adaptive, and robust large-scale AI systems. 
-        We develop foundational technologies—goal-oriented communication, ultra-large-scale coding, 
-        digital homeostasis, physics-embedded signal processing, 
-        and dual-process learning—to create next-generation communication architecture.
-      </p>
-    </td>
-    <td width="35%" align="center">
-      <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="250">
-      <br>
-      <strong>CRONOS Project</strong><br>
-      <em>Next-Generation Communication Architecture</em>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="500">
+  
+  **CRONOS Project**  
+  *Creating Next-Generation Communication Architecture for Digital Cybernetics*
+</div>
 
+<br>
 
-### Principal Investigators
-- **PI**: Tadashi Wadayama (Nagoya Institute of Technology)
-- **Co-PI**: Shun Watanabe (Tokyo University of Agriculture and Technology)
+## Project Overview
 
+### Project Goal
+AI agents are rapidly transforming communication technology. 
+This research realizes "Post-Shannon Communication" supporting autonomous, adaptive, and robust large-scale AI systems. 
+We develop foundational technologies—goal-oriented communication, ultra-large-scale coding, 
+digital homeostasis, physics-embedded signal processing, 
+and dual-process learning—to create next-generation communication architecture.
 
 
 ### Project Period
 October 2025 - March 2031 (5.5 years)
+
+### Principal Investigators
+- **PI**: Tadashi Wadayama (Nagoya Institute of Technology)
+- **Co-PI**: Shun Watanabe (Tokyo University of Agriculture and Technology)
 
 
 ## Research Themes
