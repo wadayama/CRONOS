@@ -15,7 +15,7 @@
 AI agents are rapidly transforming communication technology. 
 This research realizes "Post-Shannon Communication" supporting autonomous, adaptive, and robust large-scale AI systems. 
 We develop foundational technologies—goal-oriented communication, ultra-large-scale coding, 
-digital homeostasis, physics-embedded signal processing, 
+digital homeostasis, physics-aware signal processing, 
 and dual-process learning—to create next-generation communication architecture.
 
 
@@ -105,4 +105,4 @@ Focus: Post-Shannon Information Theory
 - Identification codes
 
 ## Contact
-For more information about this CRONOS project, please contact the principal investigators via email (wadayama@nitech.ac.jp).
+For more information about this CRONOS project, please contact the principal investigators via email (wadayama@nitech.ac.jp, shunwata@cc.tuat.ac.jp).
