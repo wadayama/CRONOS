@@ -1,5 +1,7 @@
 # Project Concept: Digital Cybernetics and Post-Shannon Communication
 
+[← Back to README](README.md)
+
 ## Overview
 
 Cybernetics, founded by Norbert Wiener, is an interdisciplinary field that explores the common mechanisms by which organisms and machines exchange information to achieve goals, utilizing negative feedback for self-regulation. **Digital Cybernetics Systems**, based on advanced digital technologies (IoT, AI, etc.), provide an integrated framework for designing and implementing system autonomy, adaptability, and robustness using analogies from biological nervous systems.
