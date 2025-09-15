@@ -114,7 +114,7 @@ Moving beyond Shannon's 80-year-old architecture to support:
 
 ## Research Groups
 
-### Wadayama Group (Nagoya Institute of Technology)
+### Wadayama Group
 Focus: Digital Cybernetics and Communication
 - Physics-aware signal processing implementation
 - Dual-process learning system development
@@ -132,14 +132,14 @@ Focus: Digital Cybernetics and Communication
 
 **Advisor:** Takahiro Uchiya (Nagoya Institute of Technology)
 
-### Watanabe Group (Tokyo University of Agriculture and Technology)
+### Watanabe Group
 Focus: Post-Shannon Information Theory
 - Distributed hypothesis testing
 - Distributed coding for ultra-large-scale systems
 - Information-theoretic security
 - Identification codes
 
-**Co-PI:** Shun Watanabe (Tokyo University of Agriculture and Technology)
+**PI:** Shun Watanabe (Tokyo University of Agriculture and Technology)
 
 **Members:**
 - Shigeaki Kuzuoka (Wakayama University)
