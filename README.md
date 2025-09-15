@@ -4,7 +4,7 @@
   <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="300">
   
   **CRONOS Project**  
-  *Creating Next-Generation Communication Architecture for Digital Cybernetics*
+  *JPMJCS25N5: Digital Cybernetics: Towards Next-Generation Communication Architecture*
   
   <br>
   
@@ -18,6 +18,10 @@
 </div>
 
 <br>
+
+## Latest News
+
+- **2025/09/11** - Our project "Digital Cybernetics: Towards Next-Generation Communication Architecture" has been selected for the CRONOS program by JST (Japan Science and Technology Agency).
 
 ## Project Overview
 
