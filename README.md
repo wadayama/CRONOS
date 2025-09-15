@@ -36,7 +36,7 @@ We develop foundational technologies—goal-oriented communication, ultra-large-
 digital homeostasis, physics-aware signal processing,
 and dual-process learning—to create next-generation communication architecture.
 
-📄 [**Project Summary Slide (PDF)**](assets/summary_slide.pdf)
+📄 [**Project Summary Slide (PDF)**](assets/summary_slide.pdf) | 📖 [**Detailed Project Concept**](project_concept.md)
 
 
 ### Project Period
