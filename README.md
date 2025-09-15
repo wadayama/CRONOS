@@ -121,6 +121,17 @@ Focus: Digital Cybernetics and Communication
 - Digital homeostasis mechanism design
 - System integration
 
+**PI:** Tadashi Wadayama (Nagoya Institute of Technology)
+
+**Members:**
+- Ayano Nakai-Kasai (Nagoya Institute of Technology)
+- Kazunori Hayashi (Kyoto University)
+- Masaki Ogura (Hiroshima University)
+- Satoshi Takabe (Institute of Science Tokyo)
+- Takanori Hara (Tokyo University of Science)
+
+**Advisor:** Takahiro Uchiya (Nagoya Institute of Technology)
+
 ### Watanabe Group (Tokyo University of Agriculture and Technology)
 Focus: Post-Shannon Information Theory
 - Distributed hypothesis testing
