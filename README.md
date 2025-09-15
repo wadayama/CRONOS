@@ -30,11 +30,13 @@
 ## Project Overview
 
 ### Project Goal
-AI agents are rapidly transforming communication technology. 
-This research realizes "Post-Shannon Communication" supporting autonomous, adaptive, and robust large-scale AI systems. 
-We develop foundational technologies—goal-oriented communication, ultra-large-scale coding, 
-digital homeostasis, physics-aware signal processing, 
+AI agents are rapidly transforming communication technology.
+This research realizes "Post-Shannon Communication" supporting autonomous, adaptive, and robust large-scale AI systems.
+We develop foundational technologies—goal-oriented communication, ultra-large-scale coding,
+digital homeostasis, physics-aware signal processing,
 and dual-process learning—to create next-generation communication architecture.
+
+📄 [**Project Summary Slide (PDF)**](assets/summary_slide.pdf)
 
 
 ### Project Period
