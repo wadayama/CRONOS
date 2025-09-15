@@ -139,6 +139,13 @@ Focus: Post-Shannon Information Theory
 - Information-theoretic security
 - Identification codes
 
+**Co-PI:** Shun Watanabe (Tokyo University of Agriculture and Technology)
+
+**Members:**
+- Shigeaki Kuzuoka (Wakayama University)
+- Akira Kamatsuka (Shonan Institute of Technology)
+- Tetsunao Matsuta (Saitama University)
+
 ---
 
 ## Contact
