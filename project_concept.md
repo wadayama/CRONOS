@@ -12,7 +12,7 @@ Systems that autonomously interact closely with their environment through AI-emb
 
 The analogy with nervous systems can serve as an effective source of ideas for improving the autonomy, adaptability, and robustness of such foundational systems, while also providing a common ground for discussions among researchers from diverse fields.
 
-This research aims to create a post-Shannon era communication architecture that enables feedback systems where AI, sensors, actuators, and effectors are tightly coupled. Digital Cybernetics Systems consist of a fusion of LLM-based control including Human In The Loop (HITL) and appropriate communication methods (Post-Shannon Communication). We believe this initiative represents an ambitious challenge aligned with GC01's vision of revolutionizing cyber infrastructure and architecture.
+This research aims to create a post-Shannon era communication architecture that enables feedback systems where AI, sensors, actuators, and effectors are tightly coupled. Digital Cybernetics Systems consist of a fusion of LLM-based control including Human In The Loop (HITL) and appropriate communication methods (Post-Shannon Communication). We believe this initiative represents an ambitious challenge aligned with the Grand Challenge "GC01: Innovation in Cyber Infrastructure and Architecture.".
 
 ## Our Main Hypothesis
 
