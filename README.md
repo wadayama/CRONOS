@@ -23,6 +23,8 @@
 
 - **2025/09/11** - Our project "Digital Cybernetics: Towards Next-Generation Communication Architecture" has been selected for the CRONOS program by JST (Japan Science and Technology Agency).
 
+---
+
 ## Project Overview
 
 ### Project Goal
@@ -64,6 +66,7 @@ October 2025 - March 2031 (5.5 years)
 </table>
 </div>
 
+---
 
 ## Research Themes
 
@@ -86,6 +89,8 @@ Inspired by cognitive psychology's dual-process theory:
 - **System 1**: Fast, reactive signal processing using online learning
 - **System 2**: Deliberative meta-learning using LLM orchestrators
 
+---
+
 ## Key Technologies
 
 ### Post-Shannon Communication Framework
@@ -101,6 +106,7 @@ Moving beyond Shannon's 80-year-old architecture to support:
 - Smart cities
 - Digital twins with world models
 
+---
 
 ## Research Groups
 
@@ -117,6 +123,8 @@ Focus: Post-Shannon Information Theory
 - Distributed coding for ultra-large-scale systems
 - Information-theoretic security
 - Identification codes
+
+---
 
 ## Contact
 For more information about this CRONOS project, please contact the principal investigators via email (wadayama@nitech.ac.jp, shunwata@cc.tuat.ac.jp).
