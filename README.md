@@ -11,7 +11,7 @@
   <br>
   
   <a href="https://www.jst.go.jp/kisoken/cronos/en/index.html">
-    <img src="assets/images/CRONOS_logo.png" alt="CRONOS Program" height="60">
+    <img src="assets/images/CRONOS_logo.png" alt="CRONOS Program" height="100">
   </a>
   
   <br>
@@ -117,6 +117,10 @@ It has been exactly 80 years since Shannon's coding communication structure (Sha
 ---
 
 ## Research Groups
+
+<div align="center">
+  <img src="assets/images/two-arrows.png" alt="Research Groups Collaboration Framework" width="500">
+</div>
 
 ### Wadayama Group
 Focus: Digital Cybernetics and Communication
