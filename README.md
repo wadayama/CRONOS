@@ -83,14 +83,14 @@ Design communication methods specifically tailored to concrete goals and tasks. 
 Develop coding schemes for systems with massive numbers of sensors, actuators, and effectors, focusing on low-latency and ultra-large-scale connectivity.
 
 <div align="center">
-  <img src="assets/images/distributed.png" alt="Ultra-Large-Scale Distributed Communication Coding" width="400">
+  <img src="assets/images/distributed.png" alt="Ultra-Large-Scale Distributed Communication Coding" width="300">
 </div>
 
 ### 3. Digital Homeostasis
 Enable real-time autonomous optimization of communication parameters (data rate, coding schemes) and available resources (frequency bands, power consumption) to maintain stable operation and rapid self-recovery from failures.
 
 <div align="center">
-  <img src="assets/images/homeo.png" alt="Digital Homeostasis Mechanism" width="400">
+  <img src="assets/images/homeo.png" alt="Digital Homeostasis Mechanism" width="300">
 </div>
 
 ### 4. Physics-Embedded Signal Processing
@@ -99,7 +99,7 @@ Incorporate governing partial differential equations (PDEs) of physical media in
 - Nonlinear Schrödinger equation for optical fiber communication
 
 <div align="center">
-  <img src="assets/images/field.png" alt="Physics-Embedded Signal Processing with PDEs" width="400">
+  <img src="assets/images/field.png" alt="Physics-Embedded Signal Processing with PDEs" width="300">
 </div>
 
 ### 5. Dual-Process Learning System
@@ -121,7 +121,7 @@ It has been exactly 80 years since Shannon's coding communication structure (Sha
 ### Analogy between Digital Cybernetic Systems and Biological Nervous Systems
 
 <div align="center">
-  <img src="assets/images/digital_cyber5_en_full_final.drawio.png" alt="Digital Cybernetics and Biological Nervous System Analogy" width="600">
+  <img src="assets/images/digital_cyber5_en_full_final.drawio.png" alt="Digital Cybernetics and Biological Nervous System Analogy" width="500">
 
   *Utilizing the analogy with biological nervous systems as a conceptual framework for inspiration*
 </div>
@@ -131,7 +131,7 @@ It has been exactly 80 years since Shannon's coding communication structure (Sha
 ## Research Groups
 
 <div align="center">
-  <img src="assets/images/two-arrows.png" alt="Research Groups Collaboration Framework" width="400">
+  <img src="assets/images/two-arrows.png" alt="Research Groups Collaboration Framework" width="300">
 </div>
 
 ### Wadayama Group
