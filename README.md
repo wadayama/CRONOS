@@ -5,7 +5,7 @@
   
   **`Digital Cybernetics = Post-Shannon Communication + LLM-based AI Agents`**
 
-  *JST CRONOS Project JPMJCS25N5: Digital Cybernetics: Towards Next-Generation Communication Architecture* from 2025/10 to 2031/3.
+  *JST CRONOS Project JPMJCS25N5: Digital Cybernetics: Towards Next-Generation Communication Architecture*
 
 
   <br>
@@ -93,6 +93,10 @@ Enable real-time autonomous optimization of communication parameters (data rate,
 Incorporate governing partial differential equations (PDEs) of physical media into signal processing:
 - Maxwell's equations for wireless communication
 - Nonlinear Schrödinger equation for optical fiber communication
+
+<div align="center">
+  <img src="assets/images/field.png" alt="Physics-Embedded Signal Processing with PDEs" width="400">
+</div>
 
 ### 5. Dual-Process Learning System
 Inspired by cognitive psychology's dual-process theory:
