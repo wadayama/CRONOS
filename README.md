@@ -85,6 +85,10 @@ Develop coding schemes for systems with massive numbers of sensors, actuators, a
 ### 3. Digital Homeostasis
 Enable real-time autonomous optimization of communication parameters (data rate, coding schemes) and available resources (frequency bands, power consumption) to maintain stable operation and rapid self-recovery from failures.
 
+<div align="center">
+  <img src="assets/images/homeo.png" alt="Digital Homeostasis Mechanism" width="400">
+</div>
+
 ### 4. Physics-Embedded Signal Processing
 Incorporate governing partial differential equations (PDEs) of physical media into signal processing:
 - Maxwell's equations for wireless communication
@@ -119,7 +123,7 @@ It has been exactly 80 years since Shannon's coding communication structure (Sha
 ## Research Groups
 
 <div align="center">
-  <img src="assets/images/two-arrows.png" alt="Research Groups Collaboration Framework" width="500">
+  <img src="assets/images/two-arrows.png" alt="Research Groups Collaboration Framework" width="400">
 </div>
 
 ### Wadayama Group
@@ -153,6 +157,7 @@ Focus: Post-Shannon Information Theory
 - Shigeaki Kuzuoka (Wakayama University)
 - Akira Kamatsuka (Shonan Institute of Technology)
 - Tetsunao Matsuta (Saitama University)
+
 
 ---
 
