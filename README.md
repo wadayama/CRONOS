@@ -3,9 +3,10 @@
 <div align="center">
   <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="300">
   
-  **CRONOS Project**  
   *JPMJCS25N5: Digital Cybernetics: Towards Next-Generation Communication Architecture*
-  
+
+  **`Digital Cybernetics = Post-Shannon Communication + LLM-based AI Agents`**
+ 
   <br>
   
   <a href="https://www.jst.go.jp/kisoken/cronos/en/index.html">
@@ -93,13 +94,6 @@ Inspired by cognitive psychology's dual-process theory:
 - **System 1**: Fast, reactive signal processing using online learning
 - **System 2**: Deliberative meta-learning using LLM orchestrators
 
-### Analogy between Digital Cybernetic Systems and Biological Nervous Systems
-
-<div align="center">
-  <img src="assets/images/digital_cyber5_en_full_final.drawio.png" alt="Digital Cybernetics and Biological Nervous System Analogy" width="600">
-
-  *Utilizing the analogy with biological nervous systems as a conceptual framework for inspiration*
-</div>
 
 ---
 
@@ -111,7 +105,13 @@ Moving beyond Shannon's 80-year-old architecture to support:
 - Adaptive and robust communication networks
 - Integration with physical laws and learning systems
 
-### Analogy between Digital Cybernetic Systems and Biological Nervoius Systems
+### Analogy between Digital Cybernetic Systems and Biological Nervous Systems
+
+<div align="center">
+  <img src="assets/images/digital_cyber5_en_full_final.drawio.png" alt="Digital Cybernetics and Biological Nervous System Analogy" width="600">
+
+  *Utilizing the analogy with biological nervous systems as a conceptual framework for inspiration*
+</div>
 
 ---
 
