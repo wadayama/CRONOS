@@ -82,6 +82,10 @@ Design communication methods specifically tailored to concrete goals and tasks. 
 ### 2. Ultra-Large-Scale Communication Coding
 Develop coding schemes for systems with massive numbers of sensors, actuators, and effectors, focusing on low-latency and ultra-large-scale connectivity.
 
+<div align="center">
+  <img src="assets/images/distributed.png" alt="Ultra-Large-Scale Distributed Communication Coding" width="400">
+</div>
+
 ### 3. Digital Homeostasis
 Enable real-time autonomous optimization of communication parameters (data rate, coding schemes) and available resources (frequency bands, power consumption) to maintain stable operation and rapid self-recovery from failures.
 
