@@ -98,17 +98,13 @@ Inspired by cognitive psychology's dual-process theory:
 
 ---
 
-## Key Technologies
+## Our Goal and Methodology
 
 ### Post-Shannon Communication Framework
-Moving beyond Shannon's 80-year-old architecture to support:
-- Autonomous AI agent systems
-- Adaptive and robust communication networks
-- Integration with physical laws and learning systems
-
 <div align="center">
-  <img src="assets/images/guidance.png" alt="Post-Shannon Communication Framework Guidance" width="400">
+  <img src="assets/images/guidance.png" alt="Post-Shannon Communication Framework Guidance" width="150">
 </div>
+It has been exactly 80 years since Shannon's coding communication structure (Shannon Architecture) emerged. Shannon Architecture has guided the development of digital communication technology for the past 80 years. We aim to determine the shape of the next-generation communication architecture that will serve as a compass directing digital communication for the next 80 years.
 
 ### Analogy between Digital Cybernetic Systems and Biological Nervous Systems
 
