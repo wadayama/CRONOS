@@ -29,6 +29,16 @@
 
 ---
 
+## Contents
+
+- [📖 Project Overview](#project-overview) - Goals, period, and principal investigators
+- [🔬 Research Themes](#research-themes) - Five foundational technologies
+- [🎯 Our Goal and Methodology](#our-goal-and-methodology) - Post-Shannon framework and biological analogies
+- [👥 Research Groups](#research-groups) - Wadayama and Watanabe groups
+- [📞 Contact](#contact) - Get in touch with the team
+
+---
+
 ## Project Overview
 
 ### Project Goal
