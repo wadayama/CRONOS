@@ -106,6 +106,10 @@ Moving beyond Shannon's 80-year-old architecture to support:
 - Adaptive and robust communication networks
 - Integration with physical laws and learning systems
 
+<div align="center">
+  <img src="assets/images/guidance.png" alt="Post-Shannon Communication Framework Guidance" width="400">
+</div>
+
 ### Analogy between Digital Cybernetic Systems and Biological Nervous Systems
 
 <div align="center">
