@@ -93,6 +93,14 @@ Inspired by cognitive psychology's dual-process theory:
 - **System 1**: Fast, reactive signal processing using online learning
 - **System 2**: Deliberative meta-learning using LLM orchestrators
 
+### Analogy between Digital Cybernetic Systems and Biological Nervous Systems
+
+<div align="center">
+  <img src="assets/images/digital_cyber5_en_full_final.drawio.png" alt="Digital Cybernetics and Biological Nervous System Analogy" width="600">
+
+  *Utilizing the analogy with biological nervous systems as a conceptual framework for inspiration*
+</div>
+
 ---
 
 ## Key Technologies
@@ -103,12 +111,7 @@ Moving beyond Shannon's 80-year-old architecture to support:
 - Adaptive and robust communication networks
 - Integration with physical laws and learning systems
 
-### Applications
-- Autonomous driving systems
-- Early disaster detection systems
-- Industrial IoT
-- Smart cities
-- Digital twins with world models
+### Analogy between Digital Cybernetic Systems and Biological Nervoius Systems
 
 ---
 
