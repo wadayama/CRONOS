@@ -3,10 +3,11 @@
 <div align="center">
   <img src="assets/images/digital_cybernetics.png" alt="Digital Cybernetics Project Logo" width="300">
   
-  *JPMJCS25N5: Digital Cybernetics: Towards Next-Generation Communication Architecture*
-
   **`Digital Cybernetics = Post-Shannon Communication + LLM-based AI Agents`**
- 
+
+  *JST CRONOS Project JPMJCS25N5: Digital Cybernetics: Towards Next-Generation Communication Architecture* from 2025/10 to 2031/3.
+
+
   <br>
   
   <a href="https://www.jst.go.jp/kisoken/cronos/en/index.html">
