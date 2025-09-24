@@ -67,7 +67,7 @@ October 2025 - March 2031 (5.5 years)
       Principal Investigator
       <br>
       <em>Nagoya Institute of Technology</em>
-      <a href="http://twlab.web.nitech.ac.jp/">[Homepage]</a>
+      <a href="https://wadayama.github.io/">[Homepage]</a>
     </td>
     <td width="50"></td>
     <td align="center" width="200" valign="top">
